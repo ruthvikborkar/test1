@@ -1,4 +1,4 @@
-package com.infy;
+package com.demo;
 
 
 import org.springframework.boot.SpringApplication;
